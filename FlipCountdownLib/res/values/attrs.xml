@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <declare-styleable name="FlipCountdownView"> -->
+        <attr name="flipTextColor" format="color" />
+        <attr name="flipTextSize" format="dimension" />
+        <attr name="flipBackgroundColor" format="color" />
+    </declare-styleable>
+</resources>
