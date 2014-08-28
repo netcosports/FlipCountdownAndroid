@@ -17,8 +17,6 @@ import android.util.AttributeSet;
 import android.view.View;
 import android.view.animation.AnimationUtils;
 
-import com.netcosports.flip.R;
-
 /**
  * Created by stephane on 11/28/13.
  */
