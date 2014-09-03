@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="flip_enable_inner_shadow">true</bool>
+    <bool name="flip_enable_gradient">true</bool>
+    <bool name="flip_enable_outer_shadow">false</bool>
+</resources>

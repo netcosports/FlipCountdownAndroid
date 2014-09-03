@@ -3,4 +3,8 @@
     <dimen name="flip_countdown_round_rect_radius">2dip</dimen>
     <dimen name="flip_countdown_middle_line_height">1dip</dimen>
     <dimen name="flip_countdown_text_size">26sp</dimen>
+    <dimen name="flip_inner_shadow_blur_radius">3dip</dimen>
+    <dimen name="flip_outer_shadow_radius">3dip</dimen>
+    <dimen name="flip_outer_shadow_dx">0dip</dimen>
+    <dimen name="flip_outer_shadow_dy">1dip</dimen>
 </resources>

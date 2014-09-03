@@ -3,4 +3,7 @@
     <color name="flip_countdown_gradient">#50dcdcdc</color>
     <color name="flip_countdown_text">#ff0005ff</color>
     <color name="flip_countdown_background">#ffffffff</color>
+    <color name="flip_inner_shadow">#33ffffff</color>
+    <color name="flip_middle_divider">#4D000000</color>
+    <color name="flip_outer_shadow">#ffffffff</color>
 </resources>

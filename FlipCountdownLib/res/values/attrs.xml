@@ -4,5 +4,11 @@
         <attr name="flipTextColor" format="color" />
         <attr name="flipTextSize" format="dimension" />
         <attr name="flipBackgroundColor" format="color" />
+        <attr name="flipEnableGradient" format="boolean" />
+        <attr name="flipEnableOuterShadow" format="boolean" />
+        <attr name="flipEnableInnerShadow" format="boolean" />
+        <attr name="flipInnerShadowColor" format="color" />
+        <attr name="flipOuterShadowColor" format="color" />
+        <attr name="flipMiddleColor" format="color" />
     </declare-styleable>
 </resources>
