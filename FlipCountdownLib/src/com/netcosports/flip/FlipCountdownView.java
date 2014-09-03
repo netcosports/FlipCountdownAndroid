@@ -153,7 +153,7 @@ public class FlipCountdownView extends View{
     private int mCurrentValue = -1;
     private int mValue = -1;
     public void setValue(int value) {
-        if(value < 100 && value >= 0)
+        if(value >= 0)
         {
             mValue = value;
             invalidate();
