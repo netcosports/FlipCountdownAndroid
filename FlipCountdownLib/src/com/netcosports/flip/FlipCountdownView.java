@@ -130,7 +130,7 @@ public class FlipCountdownView extends View{
 
         duration = res.getInteger(R.integer.flip_duration);
 
-        if(Build.VERSION.SDK_INT >= 11) {
+        if((mEnableOuterShadow || mEnableInnerShadow) && Build.VERSION.SDK_INT >= 11) {
             setLayerType(LAYER_TYPE_SOFTWARE, null);
         }
     }
